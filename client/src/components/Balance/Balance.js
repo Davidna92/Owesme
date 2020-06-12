@@ -3,7 +3,6 @@ import CountUp from 'react-countup';
 import {GlobalContext} from '../../context/GlobalState';
 
 export const Balance = () =>{
-
 const {debts} = useContext(GlobalContext);
 
 const amounts = debts.map(debt => debt.amount);
