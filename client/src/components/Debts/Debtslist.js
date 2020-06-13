@@ -8,7 +8,6 @@ export const Debtslist = () => {
   console.log(debts);
   // const newdebts = Object.keys(debts)
   // console.log(newdebts);
-
   return (
     <div>
       <h3>רשימת חייבים:</h3>
