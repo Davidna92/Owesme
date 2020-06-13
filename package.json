@@ -1,0 +1,22 @@
+{
+  "name": "hayavli",
+  "version": "1.0.0",
+  "description": "debts webapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Davidna92/ownme.git"
+  },
+  "author": "David Nahum",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Davidna92/ownme/issues"
+  },
+  "homepage": "https://github.com/Davidna92/ownme#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
