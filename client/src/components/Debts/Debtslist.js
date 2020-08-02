@@ -5,9 +5,7 @@ import { AnimatedList } from "react-animated-list";
 
 export const Debtslist = () => {
   const { debts } = useContext(GlobalContext);
-  console.log(debts);
-  // const newdebts = Object.keys(debts)
-  // console.log(newdebts);
+  
   return (
     <div>
       <h3>רשימת חייבים:</h3>
